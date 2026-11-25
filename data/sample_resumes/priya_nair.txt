@@ -1,0 +1,15 @@
+Priya Nair
+priya.nair@example.com
+
+Experience
+Machine Learning Engineer, CloudNine Tech   Mar 2022 - Present
+- Developed NLP models (BERT) for support-ticket routing using Python and TensorFlow
+- Built data pipelines in Spark and deployed services on AWS with Kubernetes and Docker
+Associate Data Engineer, Datawave   Jul 2020 - Feb 2022
+- SQL, ETL and model deployment support
+
+Education
+B.Tech Computer Science, NIT Calicut, 2020
+
+Skills
+Python, TensorFlow, scikit-learn, SQL, NLP, Spark, AWS, Docker, Kubernetes, feature engineering

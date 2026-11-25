@@ -1,0 +1,12 @@
+Karthik Reddy
+Experience
+Senior Java Developer, BankSoft   May 2018 - Present
+- Built microservices with Java, Spring Boot and REST APIs
+- MySQL and PostgreSQL schema design; Docker and Jenkins CI/CD pipelines on AWS
+- Agile delivery and team leadership
+
+Education
+B.E. Computer Science, JNTU, 2018
+
+Skills
+Java, Spring Boot, MySQL, PostgreSQL, Docker, AWS, microservices, Agile, Git

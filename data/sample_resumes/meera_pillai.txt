@@ -1,0 +1,12 @@
+Meera Pillai
+Experience
+Data Engineer, StreamLine   Jan 2019 - Present
+- Designed ETL and data pipelines on Spark, Kafka and Airflow; heavy SQL and Python
+- Deployed workloads on AWS with Docker; supported ML teams with feature stores
+- Some exposure to scikit-learn model training and statistics
+
+Education
+B.E. Information Technology, Anna University, 2018
+
+Skills
+Python, SQL, Spark, Kafka, Airflow, AWS, Docker, ETL, data warehousing

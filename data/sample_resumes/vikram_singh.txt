@@ -1,0 +1,13 @@
+Vikram Singh
+Experience
+Frontend Developer, PixelCraft   Aug 2022 - Present
+- Built responsive UIs with React, TypeScript, HTML and CSS
+- Collaborated with designers in Figma; UX improvements and Jira workflows
+Web Developer, WebWorks   Jun 2020 - Jul 2022
+- JavaScript, Vue, REST API integration
+
+Education
+Diploma in Computer Engineering, 2020
+
+Skills
+React, TypeScript, JavaScript, HTML, CSS, Figma, Git, Vue

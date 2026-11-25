@@ -1,0 +1,17 @@
+Ananya Das
+Profile
+Research-driven ML scientist, 8 years in applied NLP and large language models.
+
+Experience
+Principal ML Scientist, LangLabs   Feb 2020 - Present
+- Lead LLM fine-tuning and transformers-based search; PyTorch, Hugging Face, Python
+- MLOps with Airflow and AWS SageMaker; mentoring a team of 6
+Research Scientist, Indic AI Lab   Aug 2016 - Jan 2020
+- NLP for low-resource languages, statistics, scikit-learn, SQL
+
+Education
+PhD Computer Science (NLP), IISc Bangalore, 2016
+M.Tech Computer Science, 2012
+
+Skills
+Python, PyTorch, NLP, LLM, transformers, MLOps, AWS, Airflow, SQL, statistics, leadership, communication

@@ -1,0 +1,16 @@
+Sneha Iyer
+sneha.iyer@example.com
+
+Experience
+Machine Learning Intern, StartupX   Jan 2026 - Jun 2026
+- Trained basic classifiers with Python and scikit-learn
+
+Projects
+- Sentiment analysis of movie reviews (NLP, Python)
+- House price prediction (machine learning, pandas)
+
+Education
+B.Tech Computer Science, VIT Vellore, 2026
+
+Skills
+Python, scikit-learn, pandas, NLP, machine learning, SQL basics

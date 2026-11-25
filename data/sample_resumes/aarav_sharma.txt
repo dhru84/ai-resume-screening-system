@@ -1,0 +1,20 @@
+Aarav Sharma
+aarav.sharma@example.com | +91 98765 43210
+
+Summary
+Data scientist with a track record of shipping NLP models to production. He enjoys mentoring juniors.
+
+Experience
+Senior Data Scientist, FinEdge Analytics   Jan 2021 - Present
+- Built text classification and entity extraction pipelines using Python, PyTorch and scikit-learn
+- Deployed models on AWS with Docker and tracked experiments with MLflow
+- Wrote SQL and Spark jobs for feature engineering; presented findings to stakeholders
+Data Scientist, RetailIQ   Jun 2019 - Dec 2020
+- Demand forecasting, statistics and A/B testing
+
+Education
+M.Sc. Statistics, University of Pune, 2019
+B.Sc. Mathematics, 2017
+
+Skills
+Python, SQL, NLP, machine learning, PyTorch, scikit-learn, AWS, Docker, MLflow, Spark, communication

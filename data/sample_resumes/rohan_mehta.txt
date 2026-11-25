@@ -1,0 +1,15 @@
+Rohan Mehta
+rohan.mehta@example.com
+
+Experience
+Data Analyst, ShopMax   Apr 2021 - Present
+- Built dashboards in Tableau and Excel; wrote complex SQL queries
+- Used Python and pandas for data analysis, statistics and basic regression models
+Junior Analyst, MarketPulse   Jul 2019 - Mar 2021
+- Reporting, data visualization, communication with business teams
+
+Education
+B.Sc. Statistics, Delhi University, 2019
+
+Skills
+SQL, Python, pandas, Tableau, Excel, statistics, data analysis

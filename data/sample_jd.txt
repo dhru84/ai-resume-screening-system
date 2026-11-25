@@ -1,0 +1,17 @@
+Machine Learning Engineer
+
+About the role:
+We are building NLP-driven products and need an ML engineer to take models from notebook to production.
+
+Requirements:
+- 3+ years of experience in machine learning or data science
+- Bachelor's degree in Computer Science, Statistics or a related field
+- Strong Python programming and SQL skills
+- Hands-on experience with scikit-learn and NLP techniques
+- Solid understanding of statistics and feature engineering
+- Good communication skills
+
+Nice to have:
+- PyTorch or TensorFlow experience
+- Experience with AWS and Docker
+- Exposure to MLOps practices and Spark
